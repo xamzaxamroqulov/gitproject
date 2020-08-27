@@ -1,5 +1,6 @@
-This is my first line in my git tracked file.
-Second change.
+Git Introduction 
+
+
 Agenda today:
 1.Collaborating with GitHub (cloud based source code hosting)
 
@@ -19,4 +20,9 @@ git push -u origin master
 
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Git Collaboration with GitHub
+
+- git push
+- git set upstream origin master.
 
