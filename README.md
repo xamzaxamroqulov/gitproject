@@ -22,7 +22,6 @@ The most popular source control tool is git nowadays. It is a distributed source
 - [x] Making Changes
 - [ ] Branching
 
-
 ### Git: core commands
 Adds files to a commit basket, in git it is called “staging”
     
